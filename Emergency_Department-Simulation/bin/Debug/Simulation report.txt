@@ -1,0 +1,40 @@
+This simulation was runing on date: 22-Jun-18 17:08:45
+Total Number of patients is: 483
+Number of rooms % beds per category : 
+Category A: 8 rooms, 8 beds
+Category B: 12 rooms, 12 beds
+Category C: 5 rooms, 5 beds
+Category D: 11 rooms, 11 beds
+Number of patient per Category : 
+Category A: 47 , Average waiting time: 16.57
+Category B: 93 , Average waiting time: 32.76
+Category C: 147 , Average waiting time: 15.57
+Category D: 196 , Average waiting time: 26.85
+Number of waiting patients per category : 
+Category A: 4
+Category B: 4
+Category C: 5
+Category D: 11
+Number of discharge patients per category : 
+Category A: 47
+Category B: 93
+Category C: 147
+Category D: 196
+Average treat time per category: 
+Category A: 13.4
+Category B: 9.05
+Category C: 2.14
+Category D: 3.19
+Average walking time per category: 
+Category A: 0
+Category B: 0
+Category C: 0
+Category D: 0
+The maximum number of patients hospital can handle per category in 24h is: 
+Category A: 859.74
+Category B: 1909.44
+Category C: 3364.49
+Category D: 4965.55
+Simulation finsihed at: 22-Jun-18 17:11:208
+No Recommandation!
+We suggest that you need more rooms with beds, 
